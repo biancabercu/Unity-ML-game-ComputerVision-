@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{e15ff1b5-bd90-d7d5-da15-4bf3c2f1e6c4}</ProjectGuid>
+    <ProjectGuid>{87aed4d1-e8ea-65b9-f648-2bad6b54e3cc}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -230,7 +230,7 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.3f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -587,97 +587,107 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Runtime">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Path.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Triangle.Runtime">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="PsdPlugin">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Psdimporter.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.001">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Runtime">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Editor">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.001">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/joc computer vision aventure/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>F:/facultate/3dupb/computer vision/Unity-ML-game-ComputerVision-/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{9c511478-2f0d-3a81-ee31-c8003f75eddb}</Project>
+      <Project>{ee7b4d49-4fc2-2914-4fe2-ab7c38787c8f}</Project>
       <Name>Assembly-CSharp</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="Cinemachine.csproj">
+      <Project>{a955f911-0f5f-170c-7a46-46b29d9bda2c}</Project>
+      <Name>Cinemachine</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="com.unity.cinemachine.editor.csproj">
+      <Project>{9999ecc7-a75f-2f48-62a6-36a5d6d42718}</Project>
+      <Name>com.unity.cinemachine.editor</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>

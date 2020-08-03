@@ -22,5 +22,6 @@ public class camerafollow : MonoBehaviour
        transform.position = Vector3.Slerp(transform.position, desiredposition, smoothSpeed);
         if (LookAtPlayer) 
             transform.LookAt(target);
+        else transform.rotation = target.rotation;
     }
 }
